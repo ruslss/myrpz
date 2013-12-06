@@ -1,0 +1,14 @@
+.class_ul{
+background-color: red;
+font-size: 24px;
+color: yellow;
+
+}
+.class_ul li{
+list-style-type: none;
+}
+.center{
+margin: 0 auto;
+text-align: center;
+background-color: green;
+}
